@@ -22,7 +22,7 @@ public class BirthdayReminder {
 		System.out.println();
 		// 4. if user asked for "mom"
 		// print mom's birthday
-
+if(a.equals(*))
 		// 5. if user asked for "dad"
 		// print dad's birthday
 		// 6. if user asked for your name
